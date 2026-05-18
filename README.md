@@ -3,7 +3,7 @@ I'm a geospatial data scientist and data engineer building production platforms 
 Current work lives in private client repos.
 
 ### Featured Work
-- **Resonance** — Human mobility analytics platform I lead at Motivf, transforming hundreds of billions of raw GPS trajectory points into interactive map-based exploration tools. [SPOT-AIS](https://spot-ais.org) is built to study the spread of aquatic invasive species for the U.S. Army Corps of Engineers; there are others for federal and commercial clients.
+- **Resonance** — Human mobility analytics platform I built and lead at Motivf, transforming hundreds of billions of raw GPS trajectory points into interactive map-based exploration tools. [SPOT-AIS](https://spot-ais.org) is built to study the spread of aquatic invasive species for the U.S. Army Corps of Engineers; there are others for federal and commercial clients.
 
 - **Wildfire structural vulnerability research** — Neighborhood-scale survivability modeling at WUUII. Combined NDVI-derived vegetation features with random forest classification to predict which structures and neighborhood configurations survive fires.  
 
